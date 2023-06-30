@@ -1,6 +1,6 @@
 # libasm
 
-**A static library of standard and not-so-standard functions implemented in Assembly. A project completed at School 21.**
+**A static library of standard and not-so-standard functions implemented in Assembly. A project completed at Ecole42.**
 
 ## Implemented Functions
 
